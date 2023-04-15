@@ -1,4 +1,4 @@
-package aula_java_project;
+package java;
 import java.util.Scanner;
 public class exercicios_01 {
 
