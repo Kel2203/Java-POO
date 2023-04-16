@@ -7,7 +7,7 @@ import entities.Rectangle;
 public class Program {
 
 	public static void main(String[] args) {
-		// EXERCICIO 01
+		// Exercício 1
 
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);

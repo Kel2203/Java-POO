@@ -8,7 +8,7 @@ import entities.Employee;
 public class Program2 {
 
 	public static void main(String[] args) {
-		// Exercício 02
+		// Exercício 2
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 
