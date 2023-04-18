@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Program6 {
 
 	public static void main(String[] args) {
-		// Exercícios 6
+		// Exercício 6
 		
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
