@@ -13,6 +13,7 @@ import entities.enums.WorkerLevel;
 
 public class Program8 {
 	// Exercício 8
+	
 	public static void main(String[] args) throws ParseException {
 
 		Locale.setDefault(Locale.US);
