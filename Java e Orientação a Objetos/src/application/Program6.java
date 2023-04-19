@@ -15,7 +15,7 @@ public class Program6 {
 		e armazene-os em um vetor. Em seguida, mostrar na tela todos os números negativos lidos.*/
 		
 		
-		int num;
+		int num; 
 		System.out.print("Quantos numeros voce vai digitar? ");
 		num = sc.nextInt();
 		
