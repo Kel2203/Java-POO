@@ -7,7 +7,7 @@ import entities.Comment;
 import entities.Post;
 
 public class Program9 {
-// Execice 9
+// Exercise 9
 	public static void main(String[] args) throws ParseException {
 
 		SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy HH:mm:ss");
