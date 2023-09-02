@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49f46a73-cf98-4699-96e7-6b4b071242f2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Java e Orientação a Objetos/src/exerciciosFixacao/Consumo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java e Orientação a Objetos/src/exerciciosFixacao/Medidas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +52,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Consumo">
+  <component name="RunManager" selected="Application.Medidas">
     <configuration name="Circulo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exerciciosFixacao.Circulo" />
       <module name="Java-POO" />
@@ -78,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pagamento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exerciciosFixacao.Pagamento" />
+    <configuration name="Medidas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exerciciosFixacao.Medidas" />
       <module name="Java-POO" />
       <extension name="coverage">
         <pattern>
@@ -91,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Soma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exerciciosFixacao.Soma" />
+    <configuration name="Pagamento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exerciciosFixacao.Pagamento" />
       <module name="Java-POO" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Medidas" />
         <item itemvalue="Application.Consumo" />
         <item itemvalue="Application.Pagamento" />
         <item itemvalue="Application.Circulo" />
         <item itemvalue="Application.Troco" />
-        <item itemvalue="Application.Soma" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +140,7 @@
       <workItem from="1693663595430" duration="12000" />
       <workItem from="1693663628561" duration="11000" />
       <workItem from="1693663662505" duration="525000" />
-      <workItem from="1693664224377" duration="8402000" />
+      <workItem from="1693664224377" duration="9812000" />
     </task>
     <servers />
   </component>
