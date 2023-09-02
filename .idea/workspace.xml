@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49f46a73-cf98-4699-96e7-6b4b071242f2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Java e Orientação a Objetos/src/exerciciosFixacao/Troco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java e Orientação a Objetos/src/exerciciosFixacao/Circulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +52,20 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Troco">
+  <component name="RunManager" selected="Application.Circulo">
+    <configuration name="Circulo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exerciciosFixacao.Circulo" />
+      <module name="Java-POO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exerciciosFixacao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Idade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exerciciosFixacao.Idade" />
       <module name="Java-POO" />
@@ -91,19 +105,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Terreno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exerciciosFixacao.Terreno" />
-      <module name="Java-POO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exerciciosFixacao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Troco" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exerciciosFixacao.Troco" />
       <module name="Java-POO" />
@@ -119,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Circulo" />
         <item itemvalue="Application.Troco" />
         <item itemvalue="Application.Soma" />
         <item itemvalue="Application.Idade" />
         <item itemvalue="Application.Retangulo" />
-        <item itemvalue="Application.Terreno" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +140,7 @@
       <workItem from="1693663595430" duration="12000" />
       <workItem from="1693663628561" duration="11000" />
       <workItem from="1693663662505" duration="525000" />
-      <workItem from="1693664224377" duration="6101000" />
+      <workItem from="1693664224377" duration="7505000" />
     </task>
     <servers />
   </component>
