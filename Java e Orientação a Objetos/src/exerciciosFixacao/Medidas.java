@@ -33,19 +33,5 @@ public class Medidas {
         System.out.printf("AREA DO QUADRADO: %.4f\n", quadrado);
         System.out.printf("AREA DO TRIANGULO: %.4f\n", triangulo);
         System.out.printf("AREA DO TRAPEZIO: %.4f ", trapezio);
-//        Exemplo 1:
-//        Digite a medida A: 4.0
-//        Digite a medida B: 3.5
-//        Digite a medida C: 5.2
-//        AREA DO QUADRADO = 16.0000
-//        AREA DO TRIANGULO = 7.0000
-//        AREA DO TRAPEZIO = 19.5000
-//        Exemplo 2:
-//        Digite a medida A: 7.13
-//        Digite a medida B: 8.05
-//        Digite a medida C: 11.912
-//        AREA DO QUADRADO = 50.8369
-//        AREA DO TRIANGULO = 28.6983
-//        AREA DO TRAPEZIO = 90.4121
     }
 }
