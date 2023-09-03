@@ -1,4 +1,4 @@
-package exerciciosFixacao;
+package exerciciosFixacao.sequencial;
 
 import java.util.Scanner;
 
